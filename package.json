@@ -1,18 +1,18 @@
 {
-  "name": "react-native-parallax-header-view",
-  "version": "1.0.2",
-  "description": "Parallax view for vertical scrollview with a header image and header content",
+  "name": "@carbony/rn-parallax-scrollview",
+  "version": "1.0.0",
+  "description": "Parallax scrollview with header feature.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "react-native-reanimated": "^1.9.0",
-    "react-native-redash": "^14.1.1",
+    "react-native-redash": "^14.1.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/100010/react-native-parallax-header-view.git"
+    "url": "git+https://github.com/CarbonyDK/rn-parallax-scrollview.git"
   },
   "keywords": [
     "react",
@@ -21,10 +21,13 @@
     "parallax",
     "parallax-view"
   ],
-  "author": "Yohei Senju <yohei.senju@gmail.com> (https://yoheisenju.com)",
+  "author": "Dmytro Kurovskyi <dmytro.kurovskyi@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/100010/react-native-parallax-header-view/issues"
+    "url": "https://github.com/CarbonyDK/rn-parallax-scrollview/issues"
   },
-  "homepage": "https://github.com/100010/react-native-parallax-header-view#readme"
+  "homepage": "https://github.com/CarbonyDK/rn-parallax-scrollview#readme",
+  "directories": {
+    "example": "example"
+  }
 }
