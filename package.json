@@ -1,0 +1,30 @@
+{
+  "name": "react-native-parallax-header-view",
+  "version": "1.0.2",
+  "description": "Parallax view for vertical scrollview with a header image and header content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native-reanimated": "^1.9.0",
+    "react-native-redash": "^14.1.1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/100010/react-native-parallax-header-view.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "parallax",
+    "parallax-view"
+  ],
+  "author": "Yohei Senju <yohei.senju@gmail.com> (https://yoheisenju.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/100010/react-native-parallax-header-view/issues"
+  },
+  "homepage": "https://github.com/100010/react-native-parallax-header-view#readme"
+}
